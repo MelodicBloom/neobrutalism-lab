@@ -1,5 +1,7 @@
 # Neobrutalism Lab
 
+**▶ Live demo:** [https://neobrutalism-lab.vercel.app](https://neobrutalism-lab.vercel.app)
+
 A governed design-system and experimental web lab for turning Neo-Brutalist observations into independently testable mechanisms, reusable interface isolates, stackable compositions, and eventually product-specific applications.
 
 The repository is intentionally **system-first**. Product pages do not define the primitives. Proven primitives, patterns, assemblies, and compositions become the vocabulary product tracks are allowed to consume.
