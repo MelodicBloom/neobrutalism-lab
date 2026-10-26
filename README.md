@@ -303,3 +303,13 @@ BOLD_CO is a **consumer** of the governed system instead of a source of local ab
 The integrated traceability contract is:
 
 `observation → named mechanism → semantic token → primitive/helper → component → specimen → test → deployed evidence`
+
+## Visual proof
+
+[![Live demo](https://img.shields.io/badge/live%20demo-neobrutalism-lab.vercel.app-111?style=for-the-badge&logo=vercel)](https://neobrutalism-lab.vercel.app)
+
+[![neobrutalism-lab hero loop](docs/visual-proof/hero-poster.jpg)](docs/visual-proof/hero.mp4)
+
+Poster links to an 8 s hero loop (`docs/visual-proof/hero.mp4`); social card at `docs/visual-proof/og.png`. Generated with [visual-proof-kit](https://github.com/MelodicBloom/visual-proof-kit).
+
+Lighthouse: run locally — `npx lighthouse https://neobrutalism-lab.vercel.app --view`
